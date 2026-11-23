@@ -11,11 +11,11 @@ The application supports adding, viewing, updating, deleting, and searching stud
 
 ### Student Management Dashboard
 
-![Student Management](screenshots/student-management.png)
+![Student Management](screenshot/student-management.png)
 
 ### Edit Student Details
 
-![Edit Student](screenshots/edit.png)
+![Edit Student](screenshot/edit.png)
 
 
 ## Technologies Used
